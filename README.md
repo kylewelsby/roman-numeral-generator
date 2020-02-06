@@ -22,6 +22,8 @@ Addative notation is more verbose resulting in longer outputs where 4 is `IIII`,
 A subtle mix of subtractive and addative is used in some cases, such as the number 4 on a modern clock face.  
 No `IV` will ensure `IIII` for the number 4 is retained in subtractive notations. 
 
+[![Demo RomanNumeralGeneratorDemo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/laughing-matsumoto-ym739?fontsize=14&hidenavigation=1&theme=dark)
+
 ## 🎲 Installation
 
     npm install kylewelsby/roman-numeral-generator
